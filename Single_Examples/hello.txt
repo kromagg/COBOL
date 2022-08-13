@@ -1,0 +1,2 @@
+Compile call for Linux (GNUCOBOL)
+>cobc -x hello.cob  -o hello -std=cobol85
